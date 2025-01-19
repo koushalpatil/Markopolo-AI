@@ -56,9 +56,11 @@ This is an e-commerce chatbot powered by Node.js and Microsoft Bot Framework, in
 
 4. Create a `.env.local` file in the root of your project and add your API keys:
     ```env
-    NEXT_PUBLIC_MOLTIN_API_KEY=your-moltin-api-key
-    LUIS_API_KEY=your-luis-api-key
-    RECOMMENDATIONS_API_KEY=your-recommendations-api-key
+    
+    OPENAI_API_KEY=***
+    AUTH_SECRET=***
+    BLOB_READ_WRITE_TOKEN=***
+    POSTGRES_URL=***
     ```
 
 5. Start the development server:
