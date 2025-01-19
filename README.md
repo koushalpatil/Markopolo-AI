@@ -16,7 +16,8 @@
 
 Watch the demo video to see the chatbot in action:
 
-![Chatbot Video](./images/Screen Recording 2025-01-19 142044.mp4)
+[![Chatbot Video](./images/Screen Recording 2025-01-19 142044.png)](./images/Screen%20Recording%202025-01-19%20142044.mp4)
+
 
 
 
