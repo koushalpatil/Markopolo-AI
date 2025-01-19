@@ -12,7 +12,13 @@
 
 
 
-![Upselling Recommendations](./images/img4.png)
+## Video Demonstration
+
+Watch the demo video to see the chatbot in action:
+
+![Chatbot Video](./images/video1.mp4)
+
+
 
 This is an e-commerce chatbot powered by Node.js and Microsoft Bot Framework, integrated with Moltin for catalog management, LUIS for natural language understanding, and Microsoft's Recommendations API for product suggestions. The chatbot allows users to explore products, add them to a cart, and receive personalized upsell recommendations.
 
